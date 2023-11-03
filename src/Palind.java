@@ -1,9 +1,11 @@
 
+import org.w3c.dom.ls.LSOutput;
+
 import java.util.Scanner;
 public class Palind {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter a number");
+        System.out.println("Enter a number:");
         int num=sc.nextInt();
         int reveNum=0;
         int org_num=num;
@@ -18,6 +20,7 @@ public class Palind {
         else{
             System.out.println("Not a Palindrome number");
         }
-
+        System.out.println("this is a Palindrome program");
     }
+
 }
