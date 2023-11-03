@@ -1,6 +1,4 @@
 
-import org.w3c.dom.ls.LSOutput;
-
 import java.util.Scanner;
 public class Palind {
     public static void main(String[] args){
