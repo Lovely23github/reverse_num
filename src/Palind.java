@@ -19,6 +19,8 @@ public class Palind {
             System.out.println("Not a Palindrome number");
         }
         System.out.println("this is a Palindrome program");
+        System.out.println("Hii ,there this is a basic program ");
+        System.out.println("The changes is done by another branch");
     }
 
 }
